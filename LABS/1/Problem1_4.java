@@ -1,4 +1,6 @@
-
+//Clayton Szelestey
+//Lab 1
+//SoftDev 1
 public class Problem1_4 {
 
 	public static void main(String[] args) {

@@ -1,3 +1,6 @@
+//Clayton Szelestey
+//Lab 1
+//SoftDev 1
 import java.util.Scanner;
 
 public class Problem2_1 {
