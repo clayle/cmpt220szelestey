@@ -3,6 +3,7 @@ import java.util.ArrayList;
 //Clayton Szelestey
 //Software Development
 //Lab 8
+// JA: There is no class to test this
 public class Course {
 	
 	private String courseName;
